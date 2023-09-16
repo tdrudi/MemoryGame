@@ -1,0 +1,32 @@
+h1 {  
+    font-weight: bold;
+    text-align: center;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 3em;
+    text-transform: uppercase;
+    text-shadow:  #FC0 1px 0 10px;
+  }
+  
+  
+  #game div {
+    border: 1px solid black;
+    width: 15%;
+    height: 200px;
+    margin: 10px;
+    display: inline-block;
+    padding: 15px;
+    border-style: solid, black;
+    border-radius: 10%;
+    border-width: thick;
+  }
+  
+  
+  .red, .blue, .green, .orange, .purple{
+    background-color: black;
+  }
+  
+  body {
+    align-content: center;
+    margin: 10%;
+    background-color: aliceblue;
+  }
